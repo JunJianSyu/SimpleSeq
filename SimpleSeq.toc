@@ -1,0 +1,11 @@
+## Interface: 120000
+## Title: SimpleSeq
+## Notes: Minimal spell sequence addon - press 1 to cycle through spells
+## Author: JunJianSyu
+## Version: 1.0.0
+## SavedVariables: SimpleSeqDB
+
+util.lua
+config.lua
+core.lua
+ui.lua
